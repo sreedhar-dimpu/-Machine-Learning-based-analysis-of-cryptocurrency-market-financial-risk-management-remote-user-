@@ -1,9 +1,9 @@
-Project Overview
+### Project Overview
 This project focuses on risk management in cryptocurrency portfolios by employing Hierarchical Risk Parity (HRP) and unsupervised machine learning techniques. 
 It aims to assess the inherent risks associated with cryptocurrencies, evaluate transaction and control risks, and improve portfolio risk-adjusted returns 
 using advanced clustering and optimization techniques.
 
-Problem Statement
+### Problem Statement
 Cryptocurrency markets present high risks, including money laundering, unauthorized access, and transactional anonymity issues. 
 Traditional control mechanisms in financial institutions are challenged by these unique risks,
 which this project aims to address using HRP and ML techniques.
